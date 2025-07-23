@@ -27,7 +27,7 @@ body {
 .tm-main-content { background-color: #ffffff; }
 
 #tm-intro-img {
-  background-image: url(kopitungku/img/CafeInterior.jpg);
+  background-image: url(main/kopitungku/img/CafeInterior.jpg);
   background-position: center;
   background-size: cover;
   min-height: 425px;
